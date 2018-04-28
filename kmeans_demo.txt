@@ -1,0 +1,1 @@
+localhost 8888 yandall-vaio kmeans_train kmeans_test 120326525 18 python kmeans.py 12t.csv 18
